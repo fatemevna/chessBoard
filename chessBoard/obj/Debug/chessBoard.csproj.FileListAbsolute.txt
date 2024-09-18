@@ -1,0 +1,10 @@
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\bin\Debug\chessBoard.exe.config
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\bin\Debug\chessBoard.exe
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\bin\Debug\chessBoard.pdb
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\obj\Debug\chessBoard.csproj.AssemblyReference.cache
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\obj\Debug\chessBoard.Form1.resources
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\obj\Debug\chessBoard.Properties.Resources.resources
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\obj\Debug\chessBoard.csproj.GenerateResource.cache
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\obj\Debug\chessBoard.csproj.CoreCompileInputs.cache
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\obj\Debug\chessBoard.exe
+C:\Users\mohajer\source\repos\chessBoard\chessBoard\obj\Debug\chessBoard.pdb
